@@ -44,19 +44,7 @@ Deliverable: 03_Employee_Background_and_Wealth_Analysis.docx
 Summarize evidence, preliminary findings, limitations and practical control recommendations. Avoid treating allegations as proven misconduct.
 
 Deliverable: 04_Final_Investigation_Report.docx
-Project files
-Forensic360_Case_Silverline/
-├── README.md
-├── 01_Complaint_Deconstruction_Note.docx
-├── 02_Document_Discrepancy_Analysis.docx
-├── 03_Employee_Background_and_Wealth_Analysis.docx
-├── 04_Final_Investigation_Report.docx
-├── 05_Executive_Presentation.pptx
-├── EX-01_Purchase_Order.pdf
-├── EX-02_Supplier_Invoice.pdf
-├── EX-03_Credit_Note.pdf
-├── EX-04_Bid_and_Acceptance_Extract.pdf
-└── START_HERE.txt
+
 Key observations
 - Supplier selection: BlueArc's ₹48 lakh bid exceeded a competing ₹42 lakh bid; the available scorecard does not document a sufficient selection rationale.
 - Service delivery: Final acceptance of the ₹12 lakh video-production item is pending. After a ₹4 lakh credit note, the remaining ₹8 lakh requires verification.
